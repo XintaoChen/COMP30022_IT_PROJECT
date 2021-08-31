@@ -7,3 +7,4 @@
 | ------------- |
 |Chuyue (Amy) Liu| 
 |Emily Zhou| 
+|Xintao Chen|
